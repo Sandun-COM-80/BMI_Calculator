@@ -2,8 +2,9 @@ body {
   text-align: center;
   justify-content: center;
   gap: 70px;
-  font-family: Courier, ;
-  background: linear-gradient(rgb(63, 217, 220) 0%, rgb(238, 248, 248) 100%);
+  font-family: Courier;
+  background-image: url('./mesh-1430108_1920.png');
+
   min-height: 100vh;
 }
 
@@ -16,7 +17,7 @@ body {
 
 .bmi {
   width: 350px;
-  background-color: #ecc1c1;
+  background-image:url('./mesh-1430107_1920.png');
   padding: 20px;
   border-radius: 10px;
   margin: auto;
@@ -99,7 +100,7 @@ th {
   font-size: 18px;
 }
 .footer {
-  background-color: #47c4a9;
+  background-image:url('./mesh-1430107_1920.png');
   color: var(--text-color);
   padding: 10px 200px;
   text-align: center;
